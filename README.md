@@ -1,4 +1,4 @@
-# Ubuntu 16 setup
+# Ubuntu 16.04 setup
 
 ## Add repos & update
 ```sh
